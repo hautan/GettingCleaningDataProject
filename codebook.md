@@ -6,8 +6,8 @@ The generated output saved in tidydata.txt fields are summarized bellow:
 
 ## Identifiers
 
-* subject - The ID of the test subject
-* activity - The type of activity performed when the corresponding measurements were taken
+* subjectId - The ID of the test subject
+* activityType - The type of activity performed when the corresponding measurements were taken
 
 ## Activity Labels
 
