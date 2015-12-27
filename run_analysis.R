@@ -50,7 +50,6 @@ finalData <-  rbind(trainingData,testData);
 # Updating the colNames vector to include the new column names after merge
 columnNames  = colnames(finalData); 
 
-# 4. Appropriately label the data set with descriptive activity names. 
 
 # Cleaning up the variable names
 for (i in 1:length(columnNames)) 
