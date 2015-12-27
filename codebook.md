@@ -1,6 +1,4 @@
-Codebook
-
-# Code Book
+# CodeBook
 
 The generated output saved in tidydata.txt fields are summarized bellow:
 
